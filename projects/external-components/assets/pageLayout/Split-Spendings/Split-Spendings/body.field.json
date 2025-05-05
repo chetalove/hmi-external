@@ -1,0 +1,14 @@
+{
+  "db-2": [
+    {
+      "baseProperties": {
+        "name": "Split-SpendingsField",
+        "id": "db-3",
+        "type": "dynamicField",
+        "library": "primeng",
+        "formName": ""
+      },
+      "libraryComponent": "SplitSpendingsComponent"
+    }
+  ]
+}
